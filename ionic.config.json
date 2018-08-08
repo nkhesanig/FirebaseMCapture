@@ -1,0 +1,7 @@
+{
+  "name": "FirebStorage",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
